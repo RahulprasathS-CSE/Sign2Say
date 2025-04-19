@@ -37,17 +37,3 @@ It supports **both single-hand and two-hand gestures**, making it a cool and acc
 | pyttsx3   | Text-to-speech conversion    |
 
 ---
-
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/RahulprasathS-CSE/Sign2Say.git
-cd Sign2Say
-
-# Create virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-
-# Install dependencies
-pip install -r requirements.txt
