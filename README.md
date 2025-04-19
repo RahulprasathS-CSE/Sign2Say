@@ -42,8 +42,8 @@ It supports **both single-hand and two-hand gestures**, making it a cool and acc
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/hand-gesture-to-speech.git
-cd hand-gesture-to-speech
+git clone https://github.com/RahulprasathS-CSE/Sign2Say.git
+cd Sign2Say
 
 # Create virtual environment (optional but recommended)
 python -m venv venv
